@@ -1,0 +1,30 @@
+# Tests
+tests/
+*.test.js
+vitest.config.js
+coverage/
+
+# Development
+.git/
+.github/
+.vscode/
+.idea/
+*.log
+
+# Temporary files
+tmp/
+.claude/
+
+# Documentation (include in npm package)
+# README.md, docs/ are included
+
+# Project files
+PRD.md
+.DS_Store
+*.db
+*.db-*
+
+# Environment
+.env
+.env.*
+*-credentials.json
