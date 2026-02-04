@@ -26,12 +26,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xswarm/xswarm-document-collector.git"
+    "url": "git+https://github.com/chadananda/xswarm-document-collector.git"
   },
   "bugs": {
-    "url": "https://github.com/xswarm/xswarm-document-collector/issues"
+    "url": "https://github.com/chadananda/xswarm-document-collector/issues"
   },
-  "homepage": "https://github.com/xswarm/xswarm-document-collector#readme",
+  "homepage": "https://github.com/chadananda/xswarm-document-collector#readme",
   "scripts": {
     "test": "vitest run",
     "test:watch": "vitest",
